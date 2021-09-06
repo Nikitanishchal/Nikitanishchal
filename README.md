@@ -1,7 +1,7 @@
 ## Hi there, I am Nikita Nishchal 👋
 
 
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/nikitaNishchal17)
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nikitanishchal)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nikita.nishchal17@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nikita-nishchal-0a92a01a1)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">](https://instagram.com/ruhinishchal?utm_medium=copy_link)
@@ -34,11 +34,11 @@ Participate at [LGM Summer of Code 21](#)
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=nikitaNishchal17&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaNishchal17&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Nikitanishchal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nikitanishchal&theme=dark" width="48%" >
 <br>
 
 <div align="center">
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nikitaNishchal17.nikitaNishchal17)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nikitanishchal.Nikitanishchal)
 </div>
