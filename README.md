@@ -1,4 +1,4 @@
-## Hi there, I am Nikita Nishchal 👋
+## Hi there, I am Nikita 👋
 
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Nikitanishchal)
@@ -10,10 +10,6 @@
 I'm a passionate IT Sophomore who loves exploring new fields.
 - 📝 well I recently stepped into this open source world and its really facinating to go through the sourcecode of some of the organistion's products which I have been using from such a long time 
 
-## ⚒ *My Experience*
-Content writer Intern at [GirlScript Durgapur](https://girlscript-durgapur.netlify.app/)
-
-Participate at [LGM Summer of Code 21](#) 
 
 ## 👨‍💻 *Tech Stack I am Familiar With*:
 
