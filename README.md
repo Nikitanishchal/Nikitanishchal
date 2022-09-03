@@ -1,4 +1,7 @@
+# Hi there, I am Nikita Nishchal 👋
 
+## My Other GitHub Profile
+[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/nikitaNishchal17)
 
 ## 🏆 *Github Status*
 
